@@ -17,3 +17,5 @@ Optional: The --exec argument proxies stdin/stdout to/from the destination progr
 Optional: The --loglevel argument sets the logging chattiness - Not done
 Optional: Supports HTTPS - Not done
 Optional: -h argument prints CLI API - Not done
+
+![Video Walkthrough](NodeJS_Demo.gif)
